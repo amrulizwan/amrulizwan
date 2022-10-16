@@ -1,10 +1,5 @@
-### Hi there 👋
-
-- 🌱 I’m currently learning flutter
-- 🤔 I’m looking for help with Mobile App's
-- 💬 Ask me about work🥰
-- 📫 How to reach me: me@amrulizwan.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Falling in love with Salsabila Azzahra🥰 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 [![@amrulizwan's Holopin board](https://holopin.me/amrulizwan)](https://holopin.io/@amrulizwan)
