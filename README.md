@@ -17,7 +17,7 @@
 ### :woman_technologist: About Me :
 - :telescope: I’m working as a Mobile Dev and contributing to frontend and backend for building Web Applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: I love the beauty of nature. 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-amrulizwan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amrul-izwan-41837a1b1) 
 
