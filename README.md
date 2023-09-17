@@ -19,7 +19,7 @@
 
 - :seedling: I love the beauty of nature. 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-amrulizwan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amrul-izwan-41837a1b1) 
+- :mailbox:How to reach me: [![Instagram Badge](https://img.shields.io/badge/-amrulizwan-black?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/amrulizwan) 
 
 [![@amrulizwan's Holopin board](https://holopin.me/amrulizwan)](https://holopin.io/@amrulizwan)
 
