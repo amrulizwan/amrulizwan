@@ -1,6 +1,11 @@
+
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif" width="200"/>
+  <img src="https://i.gifer.com/Dtf.gif" width="200"/>
 </div>
+
+> [!IMPORTANT]
+> CONTACT ME
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/amrul-izwan-41837a1b1">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
