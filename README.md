@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://i.gifer.com/Dtf.gif" width="200"/>
+  <img src="Dtf.gif" width="200"/>
 </div>
 
 > [!IMPORTANT]
