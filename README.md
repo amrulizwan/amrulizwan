@@ -24,7 +24,6 @@
 [![@amrulizwan's Holopin board](https://holopin.me/amrulizwan)](https://holopin.io/@amrulizwan)
 
 ---
-[![Github stats](https://github-readme-stats.vercel.app/api?username=amrulizwan&show_icons=true&include_all_commits=true)](https://github.com/amrulizwan)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amrulizwan&layout=compact)](https://github.com/amrulizwan)
 
 ### :hammer_and_wrench: Languages and Tools :
