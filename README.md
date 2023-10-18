@@ -18,13 +18,7 @@
   </a>
 </div>
 
-
-### :woman_technologist: About Me :
-- :telescope: I’m working as a Mobile Dev and contributing to frontend and backend for building Web Applications.
-
-- :seedling: I love the beauty of nature. 
-
-- :mailbox:How to reach me: [![Instagram Badge](https://img.shields.io/badge/-amrulizwan-black?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/amrulizwan) 
+<h3>🔥 Holopin Board</h3>
 
 [![@amrulizwan's Holopin board](https://holopin.me/amrulizwan)](https://holopin.io/@amrulizwan)
 
