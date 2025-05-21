@@ -23,15 +23,6 @@
 [![@amrulizwan's Holopin board](https://holopin.me/amrulizwan)](https://holopin.io/@amrulizwan)
 
 ---
-
-  <h3>🔥 Streak Stats</h3>
-
-  <p>
-    <a href="https://github.com/amrulizwan">
-      <img alt="Amrul Izwan's streak" src="https://streak-stats.demolab.com/?user=amrulizwan&theme=monokai-metallian&hide_border=true"/>
-    </a>
-  </p>
-
   <h3>💻 GitHub Profile Stats</h3>
 
 
