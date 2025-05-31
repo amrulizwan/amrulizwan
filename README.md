@@ -36,6 +36,16 @@
 
   <a href="https://github.com/amrulizwan"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=amrulizwan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
+---
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/amrulizwan-trophy" title="Go to Source">
+      <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=amrulizwan&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+  </a>
+</div>
+
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
